@@ -188,6 +188,7 @@
     <Content Include="Views\Comments\Details.cshtml" />
     <Content Include="Views\Comments\CreateSubComment.cshtml" />
     <Content Include="Views\Comments\DisplayListOfComments.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
